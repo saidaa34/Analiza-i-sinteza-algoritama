@@ -1,0 +1,1 @@
+# Analiza-i-sinteza-algoritama
